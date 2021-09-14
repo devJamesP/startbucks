@@ -1062,3 +1062,11 @@ footer .logo {
   right: 30px;
   z-index: 9;
 }
+
+
+/* 박혜린 강화 훈련 */
+.visual .fire {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
